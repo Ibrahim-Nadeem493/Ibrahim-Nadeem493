@@ -43,7 +43,7 @@ const ibrahim = {
 
 ### 📌 Ibrahim-Nadeem
 
-This is an AI made with the help of Claude — if you find any error, let me know.
+If you find any error, let me know.
 
 | Layer      | Technology |
 |------------|------------|
